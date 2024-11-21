@@ -1,5 +1,6 @@
 BOOTCAMP SESSION 1
-This project contains the HTML structure for the Bootcamp Session 1 website, showcasing a photo gallery, blog posts, and other relevant sections. It serves as a foundation for participants to interact with basic web design and development concepts.
+This project contains the HTML structure for the Bootcamp Session 1 website, showcasing a photo gallery, blog posts, and other relevant sections.
+It serves as a foundation for participants to interact with basic web design and development concepts.
 
 Table of Contents
 Overview
